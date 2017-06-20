@@ -1,4 +1,4 @@
-(defproject matthiasn/systems-toolbox-zipkin "0.6.1"
+(defproject matthiasn/systems-toolbox-zipkin "0.6.2"
   :description "FIXME: write description"
   :url "https://github.com/matthiasn/systems-toolbox-zipkin"
   :license {:name "Eclipse Public License"
